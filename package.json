@@ -1,0 +1,9 @@
+{
+  "name": "grace-down",
+  "version": "1.0.0",
+  "description": "Give a chance to cleanup to support graceful shutdown.",
+  "main": "index.js",
+  "repository": "https://github.com/zhaoyao91/grace-down.git",
+  "author": "zhaoyao91 <zhaoyao91@163.com>",
+  "license": "MIT"
+}
